@@ -1,0 +1,11 @@
+.cardG {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    gap: 10px;
+    padding: 3px !important;
+    margin: 10px !important;
+}
+
+.boton {
+    margin-left: 15px;
+}

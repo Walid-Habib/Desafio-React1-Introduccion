@@ -1,0 +1,9 @@
+h1 {
+    background-color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: burlywood;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}

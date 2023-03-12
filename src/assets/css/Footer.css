@@ -1,0 +1,10 @@
+footer {
+    line-height: 6px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: lightcyan;
+    color: black;
+    padding: 10px;
+}
